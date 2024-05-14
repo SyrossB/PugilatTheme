@@ -1,4 +1,5 @@
-{
+[
+    {
     "author" : "Syross", 
     "name" : "PugilatTheme", 
     "keyWords" : "x",
@@ -10,3 +11,4 @@
     "creationDate" : "13/05/2024", 
     "modificationDate" : "13/05/2024"
 }
+]
